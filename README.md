@@ -7,5 +7,5 @@ Clone the git repo and load it to your browser
 Example for google chrome:
 ```
 git clone https://github.com/antunnitraj/yt-dlp-extension
-start chrome --load-extension=./yt-dlp-extension
 ```
+Then load it using Developer mode on chrome://extensions
