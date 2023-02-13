@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "yt-dlp",
+    "version": "0.1.0",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "browser_action": {},
+    "permissions": ["activeTab"]
+}
