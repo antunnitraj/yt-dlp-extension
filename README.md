@@ -4,7 +4,7 @@ yt-dlp extension used to quickly download online media.
 Get it here: https://github.com/antunnitraj/yt-dlp-protocol
 # Install
 Clone the git repo and load it to your browser
-Example for google chrome:
+### Example for google chrome:
 ```
 git clone https://github.com/antunnitraj/yt-dlp-extension
 ```
